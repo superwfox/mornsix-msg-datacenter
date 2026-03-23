@@ -1,0 +1,6 @@
+name = "mornsix-msg-datacenter"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "morn"
+database_id = "25cf87c6-d264-4270-b7bf-20fe1d9457a6"
